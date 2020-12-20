@@ -1,0 +1,18 @@
+[general]
+bar_width = 4
+bar_spacing = 2
+
+[input]
+method = fifo
+source = /tmp/mpd.fifo
+
+[output]
+channels = mono
+
+[color]
+foreground = yellow
+
+[smoothing]
+integral = 80
+gravity = 40
+
