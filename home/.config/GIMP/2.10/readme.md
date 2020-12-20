@@ -1,0 +1,2 @@
+# GIMP
+- An ediitng program
