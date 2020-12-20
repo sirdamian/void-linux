@@ -1,0 +1,87 @@
+/* atom one dark */
+!*.color0:	#1b2229 
+!*.color1:	#ff6c6b	
+!*.color2:	#98be65	
+!*.color3:	#ecbe7b	
+!*.color4:	#51afef	
+!*.color5:	#a9a1e1	
+!*.color6:	#5699af	
+!*.color7:	#5b6268	
+!*.color8:	#202328	
+!*.color9:	#da8548	
+!*.color10:	#4db5bd	
+!*.color11:	#ecbe7b	
+!*.color12:	#51afef	
+!*.color13:	#c678dd	
+!*.color14:	#46d9ff	
+!*.color15:	#bbc2cf	
+!*.background:	[85]#282c34	
+!*.foreground:	#bbc2cf	
+
+/* nord colors */
+
+*.color0: 	#3B4252
+*.color1: 	#BF616A
+*.color2: 	#A3BE8C
+*.color3: 	#EBCB8B
+*.color4: 	#81A1C1
+*.color5: 	#B48EAD
+*.color6: 	#88C0D0
+*.color7: 	#E5E9F0
+*.color8: 	#4C566A
+*.color9: 	#BF616A
+*.color10:	#A3BE8C
+*.color11: 	#EBCB8B
+*.color12: 	#81A1C1
+*.color13: 	#B48EAD
+*.color14: 	#8FBCBB
+*.color15: 	#ECEFF4
+*.background:   #2E3440
+*.foreground:   #D8DEE9
+
+/* gruvbox dark */
+!*.color0:  #282828
+!*.color1:  #cc241d
+!*.color2:  #98971a
+!*.color3:  #d79921
+!*.color4:  #458588
+!*.color5:  #b16286
+!*.color6:  #689d6a
+!*.color7:  #a89984
+!*.color8:  #928374
+!*.color9:  #fb4934
+!*.color10: #b8bb26
+!*.color11: #fabd2f
+!*.color12: #83a598
+!*.color13: #d3869b
+!*.color14: #8ec07c
+!*.color15: #ebdbb2
+!*.background: [85]#282828
+!*.foreground: #ebdbb2
+
+/* gruvbox light */
+!*.color0:  #fdf4c1
+!*.color1:  #cc241d
+!*.color2:  #98971a
+!*.color3:  #d79921
+!*.color4:  #458588
+!*.color5:  #b16286
+!*.color6:  #689d6a
+!*.color7:  #7c6f64
+!*.color8:  #928374
+!*.color9:  #9d0006
+!*.color10: #79740e
+!*.color11: #b57614
+!*.color12: #076678
+!*.color13: #8f3f71
+!*.color14: #427b58
+!*.color15: #3c3836
+!*.background: [85]#fbf1c7
+!*.foreground: #3c3836
+
+URxvt.internalBorder: 28
+URxvt.intensityStyles: false
+URxvt.depth: 32
+URxvt.font:    xft:Iosevka:style=Regular:size=12
+URxvt.scrollBar: false
+URxvt.cursorColor: white
